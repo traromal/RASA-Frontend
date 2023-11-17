@@ -1,0 +1,115 @@
+.circleBtn{
+    height:55px;
+    width:55px;
+    border-radius:  50%;
+    margin: 4px;
+    border: none;
+    padding-right: 0px;
+    background-color: rgb(237, 245, 237);
+
+}
+
+.msginp{
+    width:100%;
+    height:55px;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border: none;
+    padding-left: 10px;
+
+}
+
+.cola{
+    height:65px;
+    width:65px;
+    padding-left: 0px;
+}
+.msgalignend{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.msgalignstart{
+    display: flex;
+    justify-content: flex-start;
+    min-height: 1px;
+    
+}
+
+.botmsg{
+    /* background-color: #f0d4f7; */
+    padding-left: 15px;
+    padding-right: 15px;
+    height:auto;
+    min-height: 45px;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-radius: 30px;
+    max-width: 50rem;
+    font-size: 18px;
+    border: 3px solid #6257e3;
+    text-align: justify;
+}
+
+.usermsg{
+    /* background-color: #eee8e8; */
+    padding-left: 15px;
+    padding-right: 15px;
+    height:auto;
+    min-height: 45px;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-radius: 30px;
+    max-width: 30rem;
+    font-size: 18px;
+    border: 3px solid #c6c6c6;
+    
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #282c34; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #282c34; 
+  }
+
+.botIcon{
+    font-size: 40px;
+    /* border : 1px solid black; */
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.userIcon{
+    font-size: 40px;
+    /* border : 1px solid black; */
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+
+}
+
+.sendBtn{
+    font-size:25px;
+}
+
+
