@@ -118,8 +118,8 @@ function Basic(){
             
                 <div className="card" style={stylecard}>
                     <div className="cardHeader text-white" style={styleHeader} >
-                    <img src="../images/helpy.jpg" alt="Helpybo" style={{ width: '120px', height: '75px', marginBottom: '0px', paddingTop: '4px', alignItems:'center' }} />
-                        {/* <h1 style={{marginBottom:'0px', paddingTop:'2px', fontSize:'3rem'}}>helpybo</h1> */}
+                    <img src="../images/helpy.jpg" alt="bot" style={{ width: '120px', height: '75px', marginBottom: '0px', paddingTop: '4px', alignItems:'center' }} />
+                        {/* <h1 style={{marginBottom:'0px', paddingTop:'2px', fontSize:'3rem'}}>bot</h1> */}
                         {botTyping ? <h6>Typing....</h6> : null}
                         
                         
